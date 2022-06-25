@@ -1,6 +1,6 @@
 # 정민석 :
 - Email: zxcvasdf1126@naver.com
-- Blog:  https://minseok-study.tistory.com/)
+- Blog:  https://minseok-study.tistory.com/
 - Github: https://github.com/200000001
 
 
