@@ -2,7 +2,7 @@
 ![Metrics](/github-metrics.svg)
 
 
-#정민석
+##정민석
 -이메일: zxcvasdf1126@naver.com
 -블로그: https://minseok-study.tistory.com/ 
 -Github: https://github.com/200000001
