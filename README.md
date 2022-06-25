@@ -1,7 +1,8 @@
-# 정민석
--이메일: zxcvasdf1126@naver.com
--블로그: https://minseok-study.tistory.com/ 
--Github: https://github.com/200000001
+# 권미정 :
+- Email: zxcvasdf1126@naver.com
+- Blog:  https://minseok-study.tistory.com/)
+- Github: https://github.com/200000001
+
 
 ![Metrics](/github-metrics.svg)
 
@@ -24,14 +25,6 @@
 - Tableau을 활용한 간단한 시각화
 - R을 이용한 형태소 분석, 긍정·부정 분위기 분석, 연관 단어 분석와 같은 텍스트 분석
 
-
-## 앞으로 공부할 것들
-- A/B 테스트 설계 및 결과 분석을 하고 프로덕트에 기능 적용 경험
-- 고객 세그먼트 분석 경험
-- Python을 통한 데이터 분석 및 모델 개발 경험
-- 이커머스 프로젝트 수행 경험
-- A/B 테스트, 앱 분석 툴을 기반한 분석 및 Insight 도출 경험
-- 시각화 툴을 활용한 대시보드 설계 경험
 
 ### 앞으로 공부할 것들
 - A/B 테스트와 인과 추론에 대한 통계적 이해갖추기 
