@@ -1,4 +1,4 @@
-# 권미정 :
+# 정민석 :
 - Email: zxcvasdf1126@naver.com
 - Blog:  https://minseok-study.tistory.com/)
 - Github: https://github.com/200000001
@@ -46,7 +46,7 @@
 - 빅데이터분석
 - 데이터베이스구축및활용 
 - 유통/판매데이터분석
-- 텍스트분석 01분반
+- 텍스트분석 
 - 
 **Study**
 - 동아대 IT 취업 동아리 MLops 스터디(2022.06 ~ 진행중)
