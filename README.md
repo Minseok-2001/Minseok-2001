@@ -49,7 +49,8 @@
 - 텍스트분석 
 
 **Study**
-- 동아대 IT 취업 동아리 MLops 스터디(2022.06 ~ 진행중)
+- 동아대 IT 취업 동아리 MLops 스터디(2022.06 ~ 07)
+- https://minseok-study.tistory.com/13
 
 ## Projects
  
