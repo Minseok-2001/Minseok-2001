@@ -24,11 +24,17 @@
 - Numpy, Pandas 이용한 데이터 처리 경험
 - Tableau을 활용한 간단한 시각화
 - R을 이용한 형태소 분석, 긍정·부정 분위기 분석, 연관 단어 분석와 같은 텍스트 분석
+- Amazon AWS cli를 이용하여 S3에 데이터 업로드
+- Amazon AWS EC2를 이용한 리눅스 서버 구축
+- Amazon AWS Athena
+- Amazon AWS Glue Crawlers 
+- Docker를 이용하여 MLflow 다루기
+- FastAPI를 이용하여 모델 배포
+- Bigquery를 다양하게 다루기
 
 
 ### 앞으로 공부할 것들
 - A/B 테스트와 인과 추론에 대한 통계적 이해갖추기 
-- Bigquery를 다양하게 다뤄보기
 - Hadoop M/R, Hive, Spark 등 빅데이터 분석 플랫폼 사용하기
 - AWS, GCP, Azure 등 클라우드 플랫폼 경험을 보유하기
 - Google Analytics 
