@@ -7,7 +7,7 @@
 ![Metrics](/github-metrics.svg)
 
 ## Summary
-> 데이터 분석가를 꿈꾸고 있습니다!
+> 백엔드 개발자를 꿈꾸고 있습니다!
 
 ## Skill
 **Tech** :  
