@@ -63,16 +63,16 @@
 ### 웹페이지 제작
 
 - 2021/11 ~ 2021/12
-- https://200000001.github.io/project/
+- https://Minseok-2001.github.io/project/
 
 ### R을 이용한 텍스트 분석
 
 - 2022/3 ~ 2022/6
-- https://github.com/200000001/R
+- https://github.com/Minseok-2001/R
 
 ### 정상거래와 사기거래 분석
 - 2022/5 ~ 2022/6
-- https://github.com/200000001/school_data/blob/main/Untitled4.ipynb
+- https://github.com/Minseok-2001/school_data/blob/main/Untitled4.ipynb
 
 
 
