@@ -1,7 +1,7 @@
 # 정민석 :
 - Email: zxcvasdf1126@naver.com
 - Blog:  https://minseok-study.tistory.com/
-- Github: https://github.com/200000001
+- Github: https://github.com/Minseok-2001
 
 
 ![Metrics](/github-metrics.svg)
