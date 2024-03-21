@@ -58,7 +58,16 @@
 - 동아대 IT 취업 동아리 MLops 스터디(2022.06 ~ 07)
 - https://minseok-study.tistory.com/13
 
+- 
+
 ## Projects
+### 스마일게이트 윈터데브캠프 
+
+### 화상회의 플랫폼
+
+- 2022
+- https://github.com/sgdevcamp2022/recoder
+- https://minseok-study.tistory.com/entry/%EC%8A%A4%EB%A7%88%EC%9D%BC%EA%B2%8C%EC%9D%B4%ED%8A%B8-%EC%9C%88%EB%8D%94%EB%8D%B0%EB%B8%8C%EC%BA%A0%ED%94%84-%ED%9B%84%EA%B8%B0
  
 ### 웹페이지 제작
 
