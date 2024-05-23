@@ -48,13 +48,11 @@
 - 텍스트분석 
 
 **Study**
-- 동아대 IT 취업 동아리 MLops 스터디(2022.06 ~ 07)
-- https://minseok-study.tistory.com/13
+- [MLops 스터디](https://minseok-study.tistory.com/13) 2022.06 ~ 07
 
-- 도커 / 쿠버네티스 스터디
-- https://github.com/donga-it-club/2022_Docker_Kubernetes_Study
-
-- 
+- [도커 / 쿠버네티스 스터디](https://github.com/donga-it-club/2022_Docker_Kubernetes_Study)
+  
+- [알고리즘 스터디](https://github.com/donga-it-club/2024-algorithm-study)
 
 ## Projects
 ### 스마일게이트 윈터데브캠프 
