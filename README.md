@@ -83,7 +83,7 @@
 
 ### 티켓팅 서비스 
 - 2025-05 ~
-- https://github.com/Minseok-2001/ticket-be
+- [https://github.com/Minseok-2001/ticket-be](https://github.com/Minseok-2001/ticket-system)
 
 
 
