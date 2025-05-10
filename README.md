@@ -86,5 +86,9 @@
 - https://pastforward.link
 - https://github.com/donga-it-club/past-foward-backend
 
+### 티켓팅 서비스 
+- 2025-05 ~
+- https://github.com/Minseok-2001/ticket-be
+
 
 
