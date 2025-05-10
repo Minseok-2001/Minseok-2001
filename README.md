@@ -54,6 +54,8 @@
   
 - [알고리즘 스터디](https://github.com/donga-it-club/2024-algorithm-study)
 
+- [MySQL 스터디](https://github.com/be-db-study/real-mysql-study)
+
 ## Projects
 ### 스마일게이트 윈터데브캠프 
 
