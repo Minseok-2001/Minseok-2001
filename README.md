@@ -90,6 +90,7 @@
 
 ### 맞춤형 향수 추천 프로젝트
 - 진행 중
+- https://github.com/Minseok-2001/pick_perfume_be
 
 ### 티켓팅 서비스 
 - 2025-05 ~
