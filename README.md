@@ -79,10 +79,6 @@
 - 2022/5 ~ 2022/6
 - https://github.com/Minseok-2001/school_data/blob/main/Untitled4.ipynb
 
-### 마법의 고양이
-- 2023-09-16
-- https://magical-cat.com
-
 ### Past Forward 회고 프로젝트
 - 2024-03
 - https://pastforward.link
