@@ -1,5 +1,5 @@
 # 정민석 :
-- Email: zxcvasdf1126@naver.com
+- Email: ms.jung.dev@gmail.com
 - Blog:  https://minseok-study.tistory.com/
 - Github: https://github.com/Minseok-2001
 
@@ -7,7 +7,7 @@
 ![Metrics](/github-metrics.svg)
 
 ## Summary
-> 백엔드 개발자를 꿈꾸고 있습니다!
+> BE
 
 ## Skill
 **Tech** :  
